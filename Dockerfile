@@ -1,4 +1,4 @@
-FROM devopsedu/webapp
+FROM jgurukrishna/webapp
 
 ADD website /var/www/html
 
